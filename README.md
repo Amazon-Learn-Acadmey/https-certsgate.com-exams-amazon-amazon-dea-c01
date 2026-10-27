@@ -68,6 +68,5 @@ This is a suggested learning progression, not a mandatory certification sequence
 
 Combine official AWS exam preparation materials with practical exercises in data ingestion, transformation, storage, monitoring, and governance.
 
-- **Official AWS Resources**: Review the [AWS Certified Data Engineer - Associate page](https://aws.amazon.com/certification/certified-data-engineer-associate/) and the [official DEA-C01 exam guide](https://docs.aws.amazon.com/aws-certification/latest/data-engineer-associate-01/data-engineer-associate-01.html).
 - **CertsGate**: Explore [DEA-C01 certification preparation resources](https://certsgate.com/exams/amazon/amazon-dea-c01) for supplementary study materials and practice questions.
 - **Practical AWS Study**: Use the [AWS Glue documentation](https://docs.aws.amazon.com/glue/) to explore data integration, cataloging, transformation, and data pipeline workflows.
